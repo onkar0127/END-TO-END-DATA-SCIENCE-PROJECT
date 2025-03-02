@@ -243,3 +243,11 @@ This project was developed as part of [your internship/course/personal project].
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ##output
+
+![Image](https://github.com/user-attachments/assets/f424f913-2cfe-4e05-9bcf-88fa0d2786ba)
+![Image](https://github.com/user-attachments/assets/fe42bc53-37ae-44f8-b95b-e3c08796930d)
+![Image](https://github.com/user-attachments/assets/0c133d00-9b0b-4347-8f14-e2ebab69a852)
+![Image](https://github.com/user-attachments/assets/3ff0275e-e765-4d52-badc-48b2472d06bf)
+![Image](https://github.com/user-attachments/assets/85fe3080-e364-4c0f-948f-c3f6a56fa6ef)
+![Image](https://github.com/user-attachments/assets/796b1537-5cac-4633-a20a-6b9454607fa9)
+![Image](https://github.com/user-attachments/assets/751e5dc9-e3f7-4d94-8363-23ded4047e3c)
